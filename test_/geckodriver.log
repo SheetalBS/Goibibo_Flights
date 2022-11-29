@@ -1,0 +1,223 @@
+1669709370254	geckodriver	INFO	Listening on 127.0.0.1:60289
+1669709372770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyf1D5V"
+1669709406788	Marionette	INFO	Marionette enabled
+1669709406894	Marionette	INFO	Listening on port 60306
+Read port: 60306
+Read port: 60306
+Read port: 60306
+Read port: 60306
+Read port: 60306
+Read port: 60306
+Read port: 60306
+Read port: 60306
+Read port: 60306
+Read port: 60306
+Read port: 60306
+Read port: 60306
+Read port: 60306
+Read port: 60306
+Read port: 60306
+Read port: 60306
+1669709425713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyf1D5V\\search.json.mozlz4", (void 0)))
+[Parent 7344, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669709562153	Marionette	INFO	Stopped listening on port 60306
+1669714477902	geckodriver	INFO	Listening on 127.0.0.1:61007
+1669714480922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileR2SEDv"
+1669714488574	Marionette	INFO	Marionette enabled
+1669714488696	Marionette	INFO	Listening on port 61021
+Read port: 61021
+Read port: 61021
+Read port: 61021
+Read port: 61021
+Read port: 61021
+Read port: 61021
+Read port: 61021
+Read port: 61021
+Read port: 61021
+1669714500488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileR2SEDv\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669714540200	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669714545356	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669714588756	Marionette	INFO	Stopped listening on port 61021
+[Parent 13256, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669714594079	geckodriver	INFO	Listening on 127.0.0.1:61132
+1669714596782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileemcr0T"
+1669714599655	Marionette	INFO	Marionette enabled
+1669714599664	Marionette	INFO	Listening on port 61144
+Read port: 61144
+Read port: 61144
+1669714601698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileemcr0T\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669714611926	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:325:29
+observe@resource://gre/modules/AsyncShutdown.jsm:574:16
+
+1669714620393	Marionette	INFO	Stopped listening on port 61144
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 7120, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 7120, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1669714627226	geckodriver	INFO	Listening on 127.0.0.1:61237
+1669714630159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqKCaIp"
+1669714632314	Marionette	INFO	Marionette enabled
+1669714632329	Marionette	INFO	Listening on port 61251
+Read port: 61251
+Read port: 61251
+1669714633844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqKCaIp\\search.json.mozlz4", (void 0)))
+1669714638936	Marionette	INFO	Stopped listening on port 61251
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669714799103	geckodriver	INFO	Listening on 127.0.0.1:61448
+1669714802065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileptKCZO"
+1669714806692	Marionette	INFO	Marionette enabled
+1669714806701	Marionette	INFO	Listening on port 61462
+Read port: 61462
+Read port: 61462
+Read port: 61462
+1669714809427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileptKCZO\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669714832447	Marionette	INFO	Stopped listening on port 61462
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 6124, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669714833740	geckodriver	INFO	Listening on 127.0.0.1:61511
+1669714836300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePYLKWo"
+1669714837153	Marionette	INFO	Marionette enabled
+1669714837161	Marionette	INFO	Listening on port 61523
+Read port: 61523
+1669714838293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1669715059091	geckodriver	INFO	Listening on 127.0.0.1:61555
+1669715062154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHFBqxx"
+1669715063143	Marionette	INFO	Marionette enabled
+1669715063163	Marionette	INFO	Listening on port 61567
+Read port: 61567
+1669715064087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHFBqxx\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669715099336	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669715144085	Marionette	INFO	Stopped listening on port 61567
+1669715150847	geckodriver	INFO	Listening on 127.0.0.1:61681
+1669715153308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilebAfFSJ"
+1669715156343	Marionette	INFO	Marionette enabled
+1669715156359	Marionette	INFO	Listening on port 61693
+Read port: 61693
+Read port: 61693
+Read port: 61693
+1669715159987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilebAfFSJ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669715175424	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669715175798	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669715223938	Marionette	INFO	Stopped listening on port 61693
+1669715228137	geckodriver	INFO	Listening on 127.0.0.1:61825
+1669715230699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiled3TeJe"
+1669715232365	Marionette	INFO	Marionette enabled
+1669715232373	Marionette	INFO	Listening on port 61837
+Read port: 61837
+Read port: 61837
+1669715233703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiled3TeJe\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669715249529	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669715296432	Marionette	INFO	Stopped listening on port 61837
+1669717470304	geckodriver	INFO	Listening on 127.0.0.1:56483
+1669717473112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekvQ9fB"
+1669717478127	Marionette	INFO	Marionette enabled
+1669717478140	Marionette	INFO	Listening on port 56495
+Read port: 56495
+Read port: 56495
+Read port: 56495
+Read port: 56495
+Read port: 56495
+Read port: 56495
+1669717485893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekvQ9fB\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669717519965	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669717521250	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669717530764	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+[Parent 9048, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669717566370	Marionette	INFO	Stopped listening on port 56495
+[Parent 9048, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669717575078	geckodriver	INFO	Listening on 127.0.0.1:56613
+1669717578028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile17xYUj"
+1669717580713	Marionette	INFO	Marionette enabled
+1669717580726	Marionette	INFO	Listening on port 56625
+Read port: 56625
+Read port: 56625
+Read port: 56625
+1669717583593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile17xYUj\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669717597904	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669717642259	Marionette	INFO	Stopped listening on port 56625
+1669717645805	geckodriver	INFO	Listening on 127.0.0.1:56760
+1669717648798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileg8xLGH"
+1669717650065	Marionette	INFO	Marionette enabled
+1669717650075	Marionette	INFO	Listening on port 56772
+Read port: 56772
+1669717651155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileg8xLGH\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669717670190	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669717718214	Marionette	INFO	Stopped listening on port 56772
